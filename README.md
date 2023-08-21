@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 i already edit file 2
 
 this second change in file
+
+this is third change readme file
